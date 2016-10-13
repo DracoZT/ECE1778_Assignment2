@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="MovieTitle">Title</string>
+    <string name="TitleHint">Enter The Movie Title</string>
+    <string name="movieYear">Year</string>
+    <string name="movieActor">Actor</string>
+    <string name="ActorHint">Enter One Actor Name</string>
+    <string name="movieAdd">Add</string>
+    <string name="movieDone">Done</string>
+    <string name="labelYear">Year:  </string>
+    <string name="storeHint">Please specify a file name:</string>
+    <string name="sHint">Enter Name</string>
+    <string name="Ok">Ok</string>
+    <string name="Cancel">Cancel</string>
+    <string name="ClearView">Clear</string>
+</resources>
